@@ -1,0 +1,27 @@
+
+
+.firstDiv{
+    color: blue;
+}
+
+.secondDiv{
+  border: 4px dotted blue;
+}
+
+#uniqueId{
+  color: green;
+}
+
+
+
+p + ul{
+  border: 2px dotted green;
+}
+
+li a{
+  color: purple;
+}
+
+li a[href="https://www.github.com/h0dah"]{
+  color: blue;
+}
